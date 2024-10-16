@@ -1,0 +1,106 @@
+int A;
+for(int A = 0; A < 5; A++);
+{
+    Console.WiteLine($"{A}");
+}
+
+int B;
+for(int B = 0; B < 5; B++);
+{
+    Console.WiteLine($"{B}");
+}    
+
+int C;
+for(int C = 0; C < 5; C++);
+{
+    Console.WiteLine($"{C}");
+}
+
+int D;
+for(int D = 0; D < 5; D++);
+{
+    Console.WriteLine($"{D}");
+}
+
+int E;
+for(int E = 0; E < 5; E++);
+{
+    Console.WiteLine($"{E}");
+}
+
+int F;
+for(int F = 0; F < 5; F++);
+{
+    Console.WriteLine(${F}");
+}    
+
+int G;
+for(int G = 0; G < 5; G++);
+{
+    Console.WriteLine($"{G}");
+}
+
+int H;
+for(int H = 0; H < 5; H++);
+{
+    Console.WriteLine($"{H}");
+} 
+
+int I;
+for(int I = 0; I < 5; I++);
+{
+    Console.WriteLine($"{I}");
+}
+
+int J;
+for(int J = 0; J < 5; J++);
+{
+    Console.WriteLine($"{J}");
+}
+
+int K;
+for(int K = 0; K < 5; K++);
+{
+    Console.WriteLine($"{K}");
+}
+
+int L;
+for(int L = 0; L < 5; L++);
+{
+    Console.WriteLine($"{L}");
+}
+
+int M;
+for(int M = 0; M < 5; M++);
+{
+    Console.WriteLine($"{M}");
+}
+
+int N;
+for(int N = 0; N < 5; N++);
+{
+    Consele.WriteLine($"{N}");
+}
+
+int O;
+for(int O = 0; O < 5; O++);
+{
+    Console.WriteLine($"{O}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
